@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-react-server-side-rendering",
+  "version": "1.0.0",
+  "description": "Create Server side Rendering app.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santanu12saha/nextjs-react-server-side-rendering.git"
+  },
+  "author": "Santanu Saha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santanu12saha/nextjs-react-server-side-rendering/issues"
+  },
+  "homepage": "https://github.com/santanu12saha/nextjs-react-server-side-rendering#readme",
+  "dependencies": {
+    "next": "^9.3.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
